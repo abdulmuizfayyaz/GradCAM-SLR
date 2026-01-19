@@ -15,22 +15,22 @@ Explainable Artificial Intelligence (XAI) has become a crucial aspect of modern 
 
 ## Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA)
 <div align="center">
-    <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0010482525015537-gr10_lrg.jpg" width="700">
+    <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0010482525015537-gr10_lrg.jpg" width="650">
 </div>
 
 ## The literature review study mapping process
 <div align="center">
-    <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0010482525015537-gr5_lrg.jpg" width="700">
+    <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0010482525015537-gr5_lrg.jpg" width="350">
 </div>
 
 ## Variations and enhancements in Grad-CAM.
 <div align="center">
-    <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0010482525015537-gr12_lrg.jpg" width="700">
+    <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0010482525015537-gr12_lrg.jpg" width="500">
 </div>
 
 ## ML and DL techniques in Grad-CAM.
 <div align="center">
-    <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0010482525015537-gr13_lrg.jpg" width="350">
+    <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0010482525015537-gr13_lrg.jpg" width="700">
 </div>
 
 ## Please consider citing our work, if you use our template or methodology:
@@ -58,7 +58,7 @@ The Python code used to generate the figures of this SLR is publicly available a
 ---
 
 
-Corresponding author [Safwan Mahmood Al-Selwi](mailto:abdulmuizfayyaz@gmail.com?Subject=GradCam_SLR) @ 2025
+Corresponding author [Abdul Muiz Fayyaz](mailto:abdulmuizfayyaz@gmail.com?Subject=GradCam_SLR) @ 2025
 
 
 Thank you
